@@ -6,5 +6,4 @@ public class SECRETS {
 
     public static String GIPHYKEY = "rIi9fJTVK5O4TSk6F41QfwuMANZzjraz";
 
-
 }
